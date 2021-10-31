@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+	<AssemblyName>Company.Services.Infrasctructure</AssemblyName>
+	<AssemblyVersion>1.0.0.0</AssemblyVersion>
+	<RootNamespace>Company.Services.Infrasctructure</RootNamespace>
+	<Version>1.0.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.11" />
+  </ItemGroup>
+
+</Project>
